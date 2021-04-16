@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe246ca7-d8cc-4ea5-8715-b3642a24c105" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1mMD80ZYdoCzX39yVsxRacZKRc8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe246ca7-d8cc-4ea5-8715-b3642a24c105" name="Default Changelist" comment="" />
+      <created>1609294402684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609294402684</updated>
+      <workItem from="1609294404138" duration="4272000" />
+      <workItem from="1609311475590" duration="3000" />
+      <workItem from="1609725658886" duration="69000" />
+      <workItem from="1611885929630" duration="2278000" />
+      <workItem from="1611890780541" duration="2264000" />
+      <workItem from="1612229392693" duration="2391000" />
+      <workItem from="1612249915502" duration="598000" />
+      <workItem from="1612259044430" duration="41000" />
+      <workItem from="1614565986023" duration="575000" />
+      <workItem from="1614570338634" duration="1278000" />
+      <workItem from="1614651142958" duration="606000" />
+      <workItem from="1614830223987" duration="1532000" />
+      <workItem from="1614910162414" duration="2688000" />
+      <workItem from="1614935125664" duration="1340000" />
+      <workItem from="1616482234697" duration="951000" />
+      <workItem from="1617353227635" duration="3568000" />
+      <workItem from="1617627450298" duration="595000" />
+      <workItem from="1617671361173" duration="1819000" />
+      <workItem from="1617785071386" duration="1990000" />
+      <workItem from="1618277263918" duration="828000" />
+      <workItem from="1618382933118" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="68" key="SettingsEditor" timestamp="1609296809534">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="313" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1609296809534" />
+  </component>
+</project>

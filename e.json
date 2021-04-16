@@ -1,0 +1,61 @@
+{
+  "code": 1,
+  "msg": [
+    {
+      "sitename": "普陀区党群服务中心",
+      "index": "1",
+      "sitearaname": "2F初心礼堂视频",
+      "countdate": "3月6日 15:04",
+      "value": "68",
+      "img": "../YunDingImg/P00006S00031.jpg"
+    },
+    {
+      "sitename": "闵行区七宝镇社区党群服务中心",
+      "index": "2",
+      "sitearaname": "4F-405大舞台区域视频",
+      "countdate": "3月5日 10:01",
+      "value": "68",
+      "img": "../YunDingImg/P00004S00024.jpg"
+    },
+    {
+      "sitename": "闵行区七宝镇社区党群服务中心",
+      "index": "3",
+      "sitearaname": "3F-305蒲汇大讲堂区域视频",
+      "countdate": "3月26日 13:57",
+      "value": "63",
+      "img": "../YunDingImg/P00004S00022.jpg"
+    },
+    {
+      "sitename": "普陀区石泉路街道兰田片区党群服务中心",
+      "index": "4",
+      "sitearaname": "多功能生活区域视频",
+      "countdate": "3月8日 10:14",
+      "value": "51",
+      "img": "../YunDingImg/P00005S00010.jpg"
+    },
+    {
+      "sitename": "闵行区七宝镇社区党群服务中心",
+      "index": "5",
+      "sitearaname": "3F-306党校讲师备课堂区域视频",
+      "countdate": "3月25日 10:11",
+      "value": "39",
+      "img": "../YunDingImg/P00004S00023.jpg"
+    },
+    {
+      "sitename": "普陀区石泉路街道兰田片区党群服务中心",
+      "index": "6",
+      "sitearaname": "议事厅区域视频",
+      "countdate": "4月1日 10:32",
+      "value": "31",
+      "img": "../YunDingImg/P00005S00012.jpg"
+    },
+    {
+      "sitename": "宝山区党建服务中心",
+      "index": "7",
+      "sitearaname": "组织生活室视频",
+      "countdate": "3月5日 14:17",
+      "value": "30",
+      "img": "../YunDingImg/P00003S00011.jpg"
+    }
+  ]
+}

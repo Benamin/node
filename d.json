@@ -1,0 +1,101 @@
+{
+    "code": 1,
+    "msg": [
+        {
+            "sitekey": "P00004S00022",
+            "name": "闵行区七宝镇社区党群服务中心_3F-305蒲汇大讲堂区域视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=FEB8A19908358&policy=1024&auth_token=f9c05637a5f1cd7a4b115122ae71ac0e&auth_ts=0202050733&chn=7"
+        },
+        {
+            "sitekey": "P00004S00023",
+            "name": "闵行区七宝镇社区党群服务中心_3F-306党校讲师备课堂区域视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=FEB8A19908358&policy=1024&auth_token=f9c05637a5f1cd7a4b115122ae71ac0e&auth_ts=0202050733&chn=2"
+        },
+        {
+            "sitekey": "P00004S00024",
+            "name": "闵行区七宝镇社区党群服务中心_4F-405大舞台区域视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=FEB8A19908358&policy=1024&auth_token=f9c05637a5f1cd7a4b115122ae71ac0e&auth_ts=0202050733&chn=1"
+        },
+        {
+            "sitekey": "P00006S00017",
+            "name": "普陀区党群服务中心_1F城市工坊视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=FD5F620405345&policy=1024&auth_token=f8a3c7d11566dd0920dcc71748ff92b4&auth_ts=0202050733&chn=0"
+        },
+        {
+            "sitekey": "P00005S00012",
+            "name": "普陀区石泉路街道兰田片区党群服务中心_议事厅区域视频",
+            "value": "1",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=5DC3319908346&policy=1024&auth_token=8337ee900e01b9cfe922af17e3237851&auth_ts=0202050733&chn=4"
+        },
+        {
+            "sitekey": "P00005S00010",
+            "name": "普陀区石泉路街道兰田片区党群服务中心_多功能生活区域视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=5DC3319908346&policy=1024&auth_token=8337ee900e01b9cfe922af17e3237851&auth_ts=0202050733&chn=2"
+        },
+        {
+            "sitekey": "P00005S00011",
+            "name": "普陀区石泉路街道兰田片区党群服务中心_康复区域视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=5DC3319908346&policy=1024&auth_token=8337ee900e01b9cfe922af17e3237851&auth_ts=0202050733&chn=6"
+        },
+        {
+            "sitekey": "P00003S00010",
+            "name": "宝山区党建服务中心_党员电教活动室视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=AA4F720405661&policy=1024&auth_token=f8a3c7d11566dd0920dcc71748ff92b4&auth_ts=0202050733&chn=5"
+        },
+        {
+            "sitekey": "P00003S00011",
+            "name": "宝山区党建服务中心_组织生活室视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=AA4F720405661&policy=1024&auth_token=f8a3c7d11566dd0920dcc71748ff92b4&auth_ts=0202050733&chn=4"
+        },
+        {
+            "sitekey": "P00006S00027",
+            "name": "普陀区党群服务中心_1F苏河十八湾视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=FD5F620405345&policy=1024&auth_token=48021e49f7988653a8ed2f1a7bcbf28c&auth_ts=0129100048&chn=5"
+        },
+        {
+            "sitekey": "P00006S00026",
+            "name": "普陀区党群服务中心_1F书房和驿站视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=FD5F620405345&policy=1024&auth_token=48021e49f7988653a8ed2f1a7bcbf28c&auth_ts=0129100048&chn=1"
+        },
+        {
+            "sitekey": "P00006S00029",
+            "name": "普陀区党群服务中心_3F屋顶花园视频",
+            "value": "1",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=FD5F620405345&policy=1024&auth_token=48021e49f7988653a8ed2f1a7bcbf28c&auth_ts=0129100048&chn=7"
+        },
+        {
+            "sitekey": "P00006S00031",
+            "name": "普陀区党群服务中心_2F初心礼堂视频",
+            "value": "3",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=FD5F620405345&policy=1024&auth_token=48021e49f7988653a8ed2f1a7bcbf28c&auth_ts=0129100048&chn=12"
+        },
+        {
+            "sitekey": "P00006S00030",
+            "name": "普陀区党群服务中心_3F绿地视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=FD5F620405345&auth_token=8c9f895b4edf7bece32d5476a73146a5&auth_ts=1225095054&chn=11"
+        },
+        {
+            "sitekey": "P00007S00009",
+            "name": "徐汇区T20徐家汇商圈党群服务站_＋U站视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=DEC3720405478&policy=1024&auth_token=38c9f82198d95e7115de99b9fc3dd8c2&auth_ts=0201013138&chn=8"
+        },
+        {
+            "sitekey": "P00007S00007",
+            "name": "徐汇区T20徐家汇商圈党群服务站_Time时光剧场视频",
+            "value": "0",
+            "video": "wss-yd://relay001.yunding360.com:10085/?sn=DEC3720405478&policy=1024&auth_token=38c9f82198d95e7115de99b9fc3dd8c2&auth_ts=0201013138&chn=0"
+        }
+    ]
+}
