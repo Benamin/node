@@ -95,6 +95,9 @@ app.get('/Handler/SHDQVideoHandler.ashx', function (req, res) {
     if (MethodID === 'getAlwaysSearchSiteWithVideoNum' && VideoNum == "16") {  //  经常观看
         fileName = "d.json";
     }
+    if(MethodID === "getHotSite"){
+        fileName = "19.json";
+    }
     if (MethodID === 'getHotSiteWithVideoNum' && VideoNum == "9") {  //  热点区域
         fileName = "9.json";
     }
