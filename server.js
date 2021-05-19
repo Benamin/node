@@ -28,6 +28,7 @@ app.all("*", function (req, res, next) {
 app.get('/Handler/SHDQSiteDataHandler.ashx', function (req, res) {
     var age = url.parse(req.url).query;
     var val = qs.parse(age)["methodId"];
+    console.log("")
     var fileName = "";
     if (val === "getRegionList") {
         fileName = 'a.json';
@@ -95,7 +96,7 @@ app.get('/Handler/SHDQVideoHandler.ashx', function (req, res) {
     if (MethodID === 'getAlwaysSearchSiteWithVideoNum' && VideoNum == "16") {  //  经常观看
         fileName = "d.json";
     }
-    if(MethodID === "getHotSite"){
+    if (MethodID === "getHotSite") {
         fileName = "19.json";
     }
     if (MethodID === 'getHotSiteWithVideoNum' && VideoNum == "9") {  //  热点区域
@@ -103,6 +104,9 @@ app.get('/Handler/SHDQVideoHandler.ashx', function (req, res) {
     }
     if (MethodID === 'getHotSiteWithVideoNum' && VideoNum == "16") {  //  热点区域
         fileName = "d.json";
+    }
+    if (MethodID === 'getAllVideoSiteBySitekey') {  //  中心
+        fileName = "20.json";
     }
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
@@ -120,7 +124,7 @@ app.get('/Handler/SHDQPassengerHandler.ashx', function (req, res) {
     if (MethodID === "getPassenger_DayContrast") {
         fileName = '15.json';
     }
-    if(MethodID === "getPassenger_Weekdis"){
+    if (MethodID === "getPassenger_Weekdis") {
         fileName = "18.json";
     }
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
