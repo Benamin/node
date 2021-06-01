@@ -62,6 +62,15 @@ app.post('/Handler/SHDQOverviewHandler.ashx', function (req, res) {
     if (methodId === "getTrafficSiteSumCount") {
         fileName = "17.json"
     }
+    if (methodId === "getTotalPeople") {
+        fileName = "21.json"
+    }
+    if (methodId === "getTrafficSite") {
+        fileName = "22.json"
+    }
+    if (methodId === "getTrafficSiteIndex") {
+        fileName = "23.json"
+    }
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
@@ -132,7 +141,7 @@ app.get('/Handler/SHDQPassengerHandler.ashx', function (req, res) {
     });
 })
 
-var server = app.listen(8081, function () {
+var server = app.listen(8071, function () {
     var addr = server.address();
     var host = server.address().address
     var port = server.address().port

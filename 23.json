@@ -1,0 +1,29 @@
+{
+  "code": 1,
+  "msg": [
+    {
+      "name": "今日",
+      "value": 28000,
+      "yoy": "6.18%",
+      "yoystate": 1,
+      "mon": "",
+      "monstate": ""
+    },
+    {
+      "name": "本月",
+      "value": 616000,
+      "yoy": "7.23%",
+      "yoystate": 1,
+      "mon": "",
+      "monstate": ""
+    },
+    {
+      "name": "本年",
+      "value": 7392000,
+      "yoy": "8.68%",
+      "yoystate": 1,
+      "mon": "",
+      "monstate": ""
+    }
+  ]
+}
