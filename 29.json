@@ -1,0 +1,65 @@
+{
+  "code": 1,
+  "msg": [
+    {
+      "name": "宝山区党建服务中心",
+      "value": "0",
+      "siteKey": "P00003",
+      "percent": "0"
+    },
+    {
+      "name": "闵行区·七宝镇社区党群服务中心",
+      "value": "0",
+      "siteKey": "P00004",
+      "percent": "0"
+    },
+    {
+      "name": "普陀区·石泉路街道兰田片区党群服务中心",
+      "value": "0",
+      "siteKey": "P00005",
+      "percent": "0"
+    },
+    {
+      "name": "普陀区党群服务中心",
+      "value": "0",
+      "siteKey": "P00006",
+      "percent": "0"
+    },
+    {
+      "name": "徐汇区·T20徐家汇商圈党群服务站",
+      "value": "0",
+      "siteKey": "P00007",
+      "percent": "0"
+    },
+    {
+      "name": "杨浦区滨江党群服务站-杨树浦驿站-人人屋站",
+      "value": "0",
+      "siteKey": "P00008",
+      "percent": "0"
+    },
+    {
+      "name": "普陀区·长征镇怒江片区党群服务中心",
+      "value": "0",
+      "siteKey": "P00009",
+      "percent": "0"
+    },
+    {
+      "name": "普陀区·白兰片区党群服务中心",
+      "value": "0",
+      "siteKey": "P00010",
+      "percent": "0"
+    },
+    {
+      "name": "普陀区·桃浦镇西部片区党群服务中心",
+      "value": "0",
+      "siteKey": "P00011",
+      "percent": "0"
+    },
+    {
+      "name": "闵行区·马桥镇社区党群服务中心",
+      "value": "0",
+      "siteKey": "P00012",
+      "percent": "0"
+    }
+  ]
+}

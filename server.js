@@ -39,6 +39,9 @@ app.get('/Handler/SHDQSiteDataHandler.ashx', function (req, res) {
     if (val === "getTrafficCountByDate") {
         fileName = '13.json';
     }
+    if (val === "getTrafficCountByDateSearch") {
+        fileName = '42.json';
+    }
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
@@ -86,6 +89,25 @@ app.get('/Handler/SHDQSiteDataDetailHandler.ashx', function (req, res) {
     if (MethodID === "getIsnumDetailData") {
         fileName = 'g.json';
     }
+    if (MethodID === "getSiteWeather") {
+        fileName = '32.json';
+    }
+    if (MethodID === "getSiteIndex") {
+        fileName = '33.json';
+    }
+    if (MethodID === "getSiteByHour") {
+        fileName = '34.json';
+    }
+    if (MethodID === "getSiteTotalPeople") {
+        fileName = '35.json';
+    }
+    if (MethodID === "getSiteAreaVisitorNum") {
+        fileName = '36.json';
+    }
+    if (MethodID === "getSiteVisitorNum") {
+        fileName = '37.json';
+    }
+
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
@@ -105,8 +127,11 @@ app.get('/Handler/SHDQVideoHandler.ashx', function (req, res) {
     if (MethodID === 'getAlwaysSearchSiteWithVideoNum' && VideoNum == "16") {  //  经常观看
         fileName = "d.json";
     }
-    if (MethodID === "getHotSite") {
+    if (MethodID === "GetHotMediaBySiteKeyByPage") {
         fileName = "19.json";
+    }
+    if (MethodID === "GetAlwaysSearchDataByPage") {
+        fileName = "24.json";
     }
     if (MethodID === 'getHotSiteWithVideoNum' && VideoNum == "9") {  //  热点区域
         fileName = "9.json";
@@ -135,6 +160,55 @@ app.get('/Handler/SHDQPassengerHandler.ashx', function (req, res) {
     }
     if (MethodID === "getPassenger_Weekdis") {
         fileName = "18.json";
+    }
+    fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
+        res.end(data);
+    });
+})
+
+
+app.get('/Handler/SHDQOverviewHandlerV2.ashx', function (req, res) {
+
+    var query = url.parse(req.url).query;
+    var methodId = qs.parse(query)["methodId"];
+    var siteKey = qs.parse(query)["siteKey"];
+    console.log(methodId);
+    var fileName = "";
+    if (methodId === "getTotalPeople") {
+        fileName = "25.json"
+    }
+    if (methodId === "getTrafficSAW") {
+        fileName = "26.json"
+    }
+    if (methodId === "getTrafficSiteIndex") {
+        fileName = "27.json"
+    }
+    if (methodId === "getSiteVisitorNum") {
+        fileName = "28.json"
+    }
+    if (methodId === "getTrafficRank") {
+        fileName = "29.json"
+    }
+    if (methodId === "getTrafficRankByArea") {
+        fileName = "30.json"
+    }
+    if (methodId === "getPassenger_Timedistribution") {
+        fileName = "31.json"
+    }
+    if (methodId === "getSitekeyByUser") {
+        fileName = '40.json';
+    }
+    if (methodId === "getSiteAreaVisitorNum") {
+        fileName = 'f.json';
+    }
+    if (methodId === "getTrafficSiteCountByArea") {
+        fileName = '39.json';
+    }
+    if (methodId === "getTrafficSiteSumCount") {
+        fileName = '39.json';
+    }
+    if (methodId === "getTrafficSiteCountByArea" && siteKey === "A00001") {
+        fileName = '38.json';
     }
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);

@@ -1,0 +1,185 @@
+{
+  "code": 1,
+  "msg": [
+    {
+      "name": "0506测试",
+      "sitekey": "A00023",
+      "value": "0",
+      "longitude": "",
+      "latitude": "",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "古美街道",
+      "sitekey": "A00076",
+      "value": "7",
+      "longitude": "121.393465568111",
+      "latitude": "31.1557596397417",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "虹桥镇",
+      "sitekey": "A00088",
+      "value": "1",
+      "longitude": "121.391272804361",
+      "latitude": "31.1828520621888",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "沪东新村街道",
+      "sitekey": "A00090",
+      "value": "0",
+      "longitude": "",
+      "latitude": "",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "华漕镇",
+      "sitekey": "A00093",
+      "value": "1",
+      "longitude": "121.29970214576",
+      "latitude": "31.2141228078001",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "江川路街道",
+      "sitekey": "A00104",
+      "value": "1",
+      "longitude": "121.424362965788",
+      "latitude": "31.0153986517543",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "马桥镇",
+      "sitekey": "A00143",
+      "value": "1",
+      "longitude": "121.375347105297",
+      "latitude": "31.0363941135969",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "梅陇镇",
+      "sitekey": "A00145",
+      "value": "1",
+      "longitude": "121.432877285073",
+      "latitude": "31.1094106787803",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "浦江镇",
+      "sitekey": "A00159",
+      "value": "1",
+      "longitude": "121.523046137925",
+      "latitude": "31.0814717670761",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "浦锦街道",
+      "sitekey": "A00160",
+      "value": "1",
+      "longitude": "121.50756213568",
+      "latitude": "31.1113905831408",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "七宝镇",
+      "sitekey": "A00162",
+      "value": "2",
+      "longitude": "121.357469208699",
+      "latitude": "31.1641671864319",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "吴泾镇",
+      "sitekey": "A00195",
+      "value": "1",
+      "longitude": "121.470182565444",
+      "latitude": "31.0466411503989",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "莘庄镇",
+      "sitekey": "A00207",
+      "value": "1",
+      "longitude": "121.376687017796",
+      "latitude": "31.1274377476705",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "新虹街道",
+      "sitekey": "A00215",
+      "value": "1",
+      "longitude": "121.314280296729",
+      "latitude": "31.2119739706899",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "颛桥镇",
+      "sitekey": "A00253",
+      "value": "1",
+      "longitude": "121.407140922042",
+      "latitude": "31.0718745828898",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "莘庄工业区",
+      "sitekey": "A00487",
+      "value": "0",
+      "longitude": "",
+      "latitude": "",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "208"
+    },
+    {
+      "name": "闵行区·莘庄工业区社区党群服务中心",
+      "sitekey": "P00104",
+      "value": "1",
+      "longitude": "121.390557",
+      "latitude": "31.094075",
+      "sumdata": "86",
+      "parenttype": "207",
+      "sitetype": "300"
+    },
+    {
+      "name": "闵行区·新虹街道欣虹空间党群服务分中心",
+      "sitekey": "P00082",
+      "value": "1",
+      "longitude": "121.314804",
+      "latitude": "31.212098",
+      "sumdata": "20",
+      "parenttype": "207",
+      "sitetype": "300"
+    }
+  ]
+}

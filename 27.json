@@ -1,0 +1,37 @@
+{
+  "code": 1,
+  "msg": [
+    {
+      "name": "今日",
+      "value": 0,
+      "yoy": "-100%",
+      "yoystate": -1,
+      "mon": "",
+      "monstate": ""
+    },
+    {
+      "name": "近30天",
+      "value": 878064,
+      "yoy": "49.32%",
+      "yoystate": 1,
+      "mon": "",
+      "monstate": ""
+    },
+    {
+      "name": "本月",
+      "value": 589101,
+      "yoy": "69.46%",
+      "yoystate": 1,
+      "mon": "",
+      "monstate": ""
+    },
+    {
+      "name": "本年",
+      "value": 1808233,
+      "yoy": "--",
+      "yoystate": 0,
+      "mon": "",
+      "monstate": ""
+    }
+  ]
+}

@@ -1,77 +1,8 @@
 {
   "code": 1,
+  "total": 325,
+  "pageno": 12,
   "msg": [
-    {
-      "sitekey": "P00031S00003",
-      "name": "金山区石化街道社区党群服务中心_1F-多功能厅",
-      "value": "22",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=34C9D20401884&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=0f81321b6371d7fe18f593514627b483&auth_ts=0425012642&chn=2"
-    },
-    {
-      "sitekey": "P00009S00005",
-      "name": "普陀区长征镇怒江片区党群服务中心_党建大厅",
-      "value": "10",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=0BF8320400015&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=afee0f613e71ede5e1ea71e9ddee17eb&auth_ts=0415100104&chn=0"
-    },
-    {
-      "sitekey": "P00025S00002",
-      "name": "浦东新区东明路街道社区党群服务中心_图书馆",
-      "value": "8",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=351E319A01298&policy=1024&loginkey=ZeaWQhrGm2TEJjS0&auth_token=3f544bc4b7c3d68f23711a2505b49194&auth_ts=0425012642&chn=1"
-    },
-    {
-      "sitekey": "P00016S00003",
-      "name": "普陀区曹杨武宁片区党群服务中心_2F- 党员讲堂",
-      "value": "8",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=0B12420400041&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=07a2fbef7ae0770d94408e6e9da37a9f&auth_ts=0409014747&chn=2"
-    },
-    {
-      "sitekey": "P00010S00006",
-      "name": "普陀区白兰片区党群服务中心_4F夕阳驿站",
-      "value": "7",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=6E1F520401952&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=02591855b5c610a9472cae1dfedec832&auth_ts=0422050305&chn=1"
-    },
-    {
-      "sitekey": "P00035S00003",
-      "name": "嘉定区马陆镇社区党群服务中心_3F-303",
-      "value": "7",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=4CE4419A01308&policy=1024&loginkey=ZeaWQhrGm2TEJjS0&auth_token=3f544bc4b7c3d68f23711a2505b49194&auth_ts=0425012642&chn=1"
-    },
-    {
-      "sitekey": "P00015S00005",
-      "name": "普陀区宜川香溢片区党群服务中心_2F-社区书院",
-      "value": "6",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=825F020400044&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=3c304e6b87da37d80e96d72e1a297276&auth_ts=0409044900&chn=4"
-    },
-    {
-      "sitekey": "P00029S00006",
-      "name": "嘉定区嘉定工业区社区党群服务中心_1号楼201多功能厅",
-      "value": "5",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=46A0819A01310&policy=1024&loginkey=ZeaWQhrGm2TEJjS0&auth_token=3f544bc4b7c3d68f23711a2505b49194&auth_ts=0425012642&chn=0"
-    },
-    {
-      "sitekey": "P00010S00005",
-      "name": "普陀区白兰片区党群服务中心_3F党群天地",
-      "value": "5",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=6E1F520401952&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=02591855b5c610a9472cae1dfedec832&auth_ts=0422050305&chn=0"
-    },
-    {
-      "sitekey": "P00016S00001",
-      "name": "普陀区曹杨武宁片区党群服务中心_2F-活动室",
-      "value": "4",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=0B12420400041&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=07a2fbef7ae0770d94408e6e9da37a9f&auth_ts=0409014747&chn=0"
-    },
-    {
-      "sitekey": "P00026S00006",
-      "name": "闵行区古美路街道社区党群服务中心_3F-六大功能厅",
-      "value": "4",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=DA40520401888&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=0f81321b6371d7fe18f593514627b483&auth_ts=0425012642&chn=2"
-    },
-    {
-      "sitekey": "P00027S00003",
-      "name": "闵行区颛桥镇社区党群服务中心_A201人大代表之家",
-      "value": "4",
-      "video": "wss-yd://relay001.yunding360.com:10085/?sn=6A3FA20401996&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=472a9bf5e3d93b062ba31e06e27f1c71&auth_ts=0414010713&chn=0"
-    }
+
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "code": 1,
+  "msg": [
+    {
+      "name": "金山区·漕泾镇社区党群服务中心",
+      "sitekey": "P00034",
+      "value": "0",
+      "longitude": "121.416656",
+      "latitude": "30.801708",
+      "sumdata": "290",
+      "parenttype": "208",
+      "sitetype": "300",
+      "siteAlias": "31"
+    },
+    {
+      "name": "金山区·漕泾镇社区党群服务中心分中心（受理中心）",
+      "sitekey": "P00090",
+      "value": "0",
+      "longitude": "121.411189",
+      "latitude": "30.802275",
+      "sumdata": "213",
+      "parenttype": "209",
+      "sitetype": "300",
+      "siteAlias": "45"
+    },
+    {
+      "name": "金山区·漕泾镇水库村党群服务站",
+      "sitekey": "P00086",
+      "value": "0",
+      "longitude": "121.403017",
+      "latitude": "30.830168",
+      "sumdata": "404",
+      "parenttype": "209",
+      "sitetype": "300",
+      "siteAlias": ""
+    }
+  ]
+}

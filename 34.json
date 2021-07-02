@@ -1,0 +1,85 @@
+{
+  "code": 1,
+  "msg": [
+    {
+      "time": "06:00",
+      "today": "66",
+      "yesterday": "49"
+    },
+    {
+      "time": "07:00",
+      "today": "282",
+      "yesterday": "152"
+    },
+    {
+      "time": "08:00",
+      "today": "151",
+      "yesterday": "133"
+    },
+    {
+      "time": "09:00",
+      "today": "83",
+      "yesterday": "56"
+    },
+    {
+      "time": "10:00",
+      "today": "103",
+      "yesterday": "81"
+    },
+    {
+      "time": "11:00",
+      "today": "201",
+      "yesterday": "216"
+    },
+    {
+      "time": "12:00",
+      "today": "176",
+      "yesterday": "140"
+    },
+    {
+      "time": "13:00",
+      "today": "92",
+      "yesterday": "60"
+    },
+    {
+      "time": "14:00",
+      "today": "50",
+      "yesterday": "53"
+    },
+    {
+      "time": "15:00",
+      "today": "67",
+      "yesterday": "41"
+    },
+    {
+      "time": "16:00",
+      "today": "50",
+      "yesterday": "86"
+    },
+    {
+      "time": "17:00",
+      "today": "156",
+      "yesterday": "232"
+    },
+    {
+      "time": "18:00",
+      "today": "122",
+      "yesterday": "187"
+    },
+    {
+      "time": "19:00",
+      "today": "0",
+      "yesterday": "167"
+    },
+    {
+      "time": "20:00",
+      "today": "0",
+      "yesterday": "106"
+    },
+    {
+      "time": "21:00",
+      "today": "0",
+      "yesterday": "44"
+    }
+  ]
+}
