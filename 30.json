@@ -1,68 +1,22 @@
 {
   "code": 1,
   "msg": {
-    "city": 9,
+    "city": 36,
     "district": 7,
+    "citytotal": 72,
+    "districttotal": 14,
     "traffic": [
       {
-        "name": "闵行区·七宝镇社区党群服务中心",
-        "value": "0",
-        "siteKey": "P00004",
-        "percent": "0"
-      },
-      {
-        "name": "闵行区·马桥镇社区党群服务中心",
-        "value": "0",
-        "siteKey": "P00012",
-        "percent": "0"
-      },
-      {
-        "name": "闵行区·梅陇镇社区党群服务中心",
-        "value": "0",
-        "siteKey": "P00013",
-        "percent": "0"
-      },
-      {
-        "name": "闵行区·虹桥镇社区党群服务中心",
-        "value": "0",
-        "siteKey": "P00018",
-        "percent": "0"
-      },
-      {
-        "name": "闵行区·江川路街道社区党群服务中心",
-        "value": "0",
-        "siteKey": "P00019",
-        "percent": "0"
-      },
-      {
-        "name": "闵行区·七宝镇皇都党群服务分中心",
-        "value": "0",
+        "name": "闵行区·皇都党群分中心",
+        "value": "66",
         "siteKey": "P00024",
-        "percent": "0"
+        "percent": "100"
       },
       {
-        "name": "闵行区·古美路街道社区党群服务中心",
-        "value": "0",
-        "siteKey": "P00026",
-        "percent": "0"
-      },
-      {
-        "name": "闵行区·颛桥镇社区党群服务中心",
-        "value": "0",
-        "siteKey": "P00027",
-        "percent": "0"
-      },
-      {
-        "name": "闵行区·华漕镇社区党群服务中心",
-        "value": "0",
-        "siteKey": "P00030",
-        "percent": "0"
-      },
-      {
-        "name": "闵行区·浦锦街道社区党群服务中心",
-        "value": "0",
-        "siteKey": "P00032",
-        "percent": "0"
+        "name": "闵行区·七宝镇社区党群服务中心",
+        "value": "11",
+        "siteKey": "P00004",
+        "percent": "17"
       }
     ]
   }

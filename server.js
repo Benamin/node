@@ -28,7 +28,6 @@ app.all("*", function (req, res, next) {
 app.get('/Handler/SHDQSiteDataHandler.ashx', function (req, res) {
     var age = url.parse(req.url).query;
     var val = qs.parse(age)["methodId"];
-    console.log("")
     var fileName = "";
     if (val === "getRegionList") {
         fileName = 'a.json';
@@ -172,7 +171,6 @@ app.get('/Handler/SHDQOverviewHandlerV2.ashx', function (req, res) {
     var query = url.parse(req.url).query;
     var methodId = qs.parse(query)["methodId"];
     var siteKey = qs.parse(query)["siteKey"];
-    console.log(methodId);
     var fileName = "";
     if (methodId === "getTotalPeople") {
         fileName = "25.json"
