@@ -41,6 +41,15 @@ app.get('/Handler/SHDQSiteDataHandler.ashx', function (req, res) {
     if (val === "getTrafficCountByDateSearch") {
         fileName = '42.json';
     }
+    if (val === "getActivityRetention") {
+        fileName = '44.json';
+    }
+    if (val === "getAllVideoBySiteKey") {
+        fileName = '45.json';
+    }
+    if (val === "getActivityImg") {
+        fileName = '46.json';
+    }
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
@@ -159,6 +168,9 @@ app.get('/Handler/SHDQPassengerHandler.ashx', function (req, res) {
     }
     if (MethodID === "getPassenger_Weekdis") {
         fileName = "18.json";
+    }
+    if (MethodID === "getPassenger_RegionList") {
+        fileName = "43.json";
     }
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);

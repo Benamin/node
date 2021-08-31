@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe246ca7-d8cc-4ea5-8715-b3642a24c105" name="Default Changelist" comment="【update】">
+      <change afterPath="$PROJECT_DIR$/43.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15.json" beforeDir="false" afterPath="$PROJECT_DIR$/15.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18.json" beforeDir="false" afterPath="$PROJECT_DIR$/18.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27.json" beforeDir="false" afterPath="$PROJECT_DIR$/27.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30.json" beforeDir="false" afterPath="$PROJECT_DIR$/30.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/40.json" beforeDir="false" afterPath="$PROJECT_DIR$/40.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.json" beforeDir="false" afterPath="$PROJECT_DIR$/14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.json" beforeDir="false" afterPath="$PROJECT_DIR$/19.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e.json" beforeDir="false" afterPath="$PROJECT_DIR$/e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mMD80ZYdoCzX39yVsxRacZKRc8" />
@@ -141,7 +145,14 @@
       <workItem from="1627644685047" duration="53000" />
       <workItem from="1628142230441" duration="2663000" />
       <workItem from="1628213293900" duration="496000" />
-      <workItem from="1628472334077" duration="2296000" />
+      <workItem from="1628472334077" duration="2775000" />
+      <workItem from="1628754624393" duration="782000" />
+      <workItem from="1629263583232" duration="253000" />
+      <workItem from="1629288924969" duration="595000" />
+      <workItem from="1629686785866" duration="1782000" />
+      <workItem from="1629965529297" duration="926000" />
+      <workItem from="1630315155621" duration="2435000" />
+      <workItem from="1630372113794" duration="9395000" />
     </task>
     <task id="LOCAL-00001" summary="【update】">
       <created>1619332060934</created>
@@ -171,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625206087301</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="【update】">
+      <created>1628489629528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628489629528</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

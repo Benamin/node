@@ -3,6 +3,26 @@
   "total": 325,
   "pageno": 12,
   "msg": [
-
+    {
+      "sitekey": "P00017S00003",
+      "sitetype": "400",
+      "name": "普陀区·真如高陵片区党群服务中心_2F-百姓大舞台",
+      "value": "0",
+      "video": "wss-yd://ncs.yunding360.com:10055/?sn=2701320401889&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=964ed63c3f26714b1cfad9264e5c62be&auth_ts=0518051834&chn=0"
+    },
+    {
+      "sitekey": "P00017S00004",
+      "sitetype": "400",
+      "name": "普陀区·真如高陵片区党群服务中心_2F-生活服务区",
+      "value": "0",
+      "video": "wss-yd://ncs.yunding360.com:10055/?sn=2701320401889&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=964ed63c3f26714b1cfad9264e5c62be&auth_ts=0518051834&chn=2"
+    },
+    {
+      "sitekey": "P00021S00004",
+      "sitetype": "400",
+      "name": "普陀区·颐华片区党群服务中心_2F-儿童服务中心",
+      "value": "0",
+      "video": "wss-yd://ncs.yunding360.com:10055/?sn=2DDD720401944&policy=1024&loginkey=gE5NycfOize3OayR&auth_token=964ed63c3f26714b1cfad9264e5c62be&auth_ts=0518051834&chn=0"
+    }
   ]
 }

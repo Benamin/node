@@ -1,0 +1,21 @@
+{
+  "code": 1,
+  "total": 58,
+  "pageno": 1,
+  "msg": [
+    {
+      "sitekey": "P00154S00004",
+      "name": "静安区党建服务中心-新时代学习所",
+      "value": "104",
+      "image": "20210831_P00154S00004.jpg",
+      "video": "wss-yd://ncs.yunding360.com:10055/?sn=E8E3B21602132&policy=1024&loginkey=foLlI30CZeNqGc6v&auth_token=acfbe87b79479503349bd880865f3ecd&auth_ts=0831101143&chn=4"
+    },
+    {
+      "sitekey": "P00089S00002",
+      "name": "崇明区·城桥镇社区党群服务中心-103-大会议室",
+      "value": "45",
+      "image": "20210831_P00089S00002.jpg",
+      "video": "wss-yd://ncs.yunding360.com:10055/?sn=61F8C20C16769&policy=1024&loginkey=foLlI30CZeNqGc6v&auth_token=dc1d9cddf03e576c252c3256232ca968&auth_ts=0831101148&chn=1"
+    }
+  ]
+}
