@@ -1,21 +1,41 @@
 {
   "code": 1,
-  "total": 58,
-  "pageno": 1,
   "msg": [
     {
-      "sitekey": "P00154S00004",
-      "name": "静安区党建服务中心-新时代学习所",
-      "value": "104",
-      "image": "20210831_P00154S00004.jpg",
-      "video": "wss-yd://ncs.yunding360.com:10055/?sn=E8E3B21602132&policy=1024&loginkey=foLlI30CZeNqGc6v&auth_token=acfbe87b79479503349bd880865f3ecd&auth_ts=0831101143&chn=4"
+      "sitekey": "P00081S00005",
+      "siteType": "400",
+      "name": "崇明区党群服务中心-2号楼202-综合培训室",
+      "value": "8",
+      "flag": "1",
+      "camerakey": "P81C6_12A",
+      "video": "wss-yd://ncs.yunding360.com:10055/?sn=2086520C16770&policy=1024&loginkey=foLlI30CZeNqGc6v&auth_token=f7db404c0924a26a36351c0a08e5c97a&auth_ts=1130102307&chn=3"
     },
     {
-      "sitekey": "P00089S00002",
-      "name": "崇明区·城桥镇社区党群服务中心-103-大会议室",
-      "value": "45",
-      "image": "20210831_P00089S00002.jpg",
-      "video": "wss-yd://ncs.yunding360.com:10055/?sn=61F8C20C16769&policy=1024&loginkey=foLlI30CZeNqGc6v&auth_token=dc1d9cddf03e576c252c3256232ca968&auth_ts=0831101148&chn=1"
+      "sitekey": "P00081S00005",
+      "siteType": "400",
+      "name": "崇明区党群服务中心-2号楼202-综合培训室",
+      "value": "9",
+      "flag": "0",
+      "camerakey": "P81C8_12A",
+      "video": "wss-yd://ncs.yunding360.com:10055/?sn=2086520C16770&policy=1024&loginkey=foLlI30CZeNqGc6v&auth_token=f7db404c0924a26a36351c0a08e5c97a&auth_ts=1130102307&chn=4"
+    },
+    {
+      "sitekey": "P00081S00005",
+      "siteType": "400",
+      "name": "崇明区党群服务中心-2号楼202-综合培训室",
+      "value": "8",
+      "flag": "0",
+      "camerakey": "P81C7_12A",
+      "video": "wss-yd://ncs.yunding360.com:10055/?sn=2086520C16770&policy=1024&loginkey=foLlI30CZeNqGc6v&auth_token=f7db404c0924a26a36351c0a08e5c97a&auth_ts=1130102307&chn=6"
+    },
+    {
+      "sitekey": "P00081S00005",
+      "siteType": "400",
+      "name": "崇明区党群服务中心-2号楼202-综合培训室",
+      "value": "1",
+      "flag": "0",
+      "camerakey": "P81C9_12A",
+      "video": "wss-yd://ncs.yunding360.com:10055/?sn=2086520C16770&policy=1024&loginkey=foLlI30CZeNqGc6v&auth_token=f7db404c0924a26a36351c0a08e5c97a&auth_ts=1130102307&chn=5"
     }
   ]
 }

@@ -25,6 +25,36 @@ app.all("*", function (req, res, next) {
         next();
 })
 
+app.get('/Handler/SHDQSiteDataHandlerV3.ashx', function (req, res) {
+    var age = url.parse(req.url).query;
+    var val = qs.parse(age)["methodId"];
+    var fileName = "";
+    if (val === "getRegionList") {
+        fileName = 'a.json';
+    }
+    if (val === "getTrafficCountTop5") {
+        fileName = 'e.json';
+    }
+    if (val === "getTrafficCountByDate") {
+        fileName = '13.json';
+    }
+    if (val === "getTrafficCountByDateSearch") {
+        fileName = '42.json';
+    }
+    if (val === "getActivityRetention") {
+        fileName = '44.json';
+    }
+    if (val === "getActivityImg") {
+        fileName = '46.json';
+    }
+    if (val === "getTownList") {
+        fileName = '48.json';
+    }
+    fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
+        res.end(data);
+    });
+})
+
 app.get('/Handler/SHDQSiteDataHandler.ashx', function (req, res) {
     var age = url.parse(req.url).query;
     var val = qs.parse(age)["methodId"];
@@ -44,9 +74,6 @@ app.get('/Handler/SHDQSiteDataHandler.ashx', function (req, res) {
     if (val === "getActivityRetention") {
         fileName = '44.json';
     }
-    if (val === "getAllVideoBySiteKey") {
-        fileName = '45.json';
-    }
     if (val === "getActivityImg") {
         fileName = '46.json';
     }
@@ -54,7 +81,6 @@ app.get('/Handler/SHDQSiteDataHandler.ashx', function (req, res) {
         res.end(data);
     });
 })
-
 
 app.post('/Handler/SHDQOverviewHandler.ashx', function (req, res) {
 
@@ -121,7 +147,7 @@ app.get('/Handler/SHDQSiteDataDetailHandler.ashx', function (req, res) {
     });
 })
 ///Handler/SHDQSiteDataDetailHandler.ashx?methodId=getSiteAreaVisitorNum&sitekey=P00001
-app.get('/Handler/SHDQVideoHandler.ashx', function (req, res) {
+app.get('/Handler/SHDQVideoHandlerV3.ashx', function (req, res) {
     var age = url.parse(req.url).query;
     var MethodID = qs.parse(age)["MethodID"];
     var VideoNum = qs.parse(age)["VideoNum"];
@@ -150,13 +176,16 @@ app.get('/Handler/SHDQVideoHandler.ashx', function (req, res) {
     if (MethodID === 'getAllVideoSiteBySitekey') {  //  中心
         fileName = "20.json";
     }
+    if (MethodID === "getAllVideoBySiteKey") {
+        fileName = '45.json';
+    }
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
 })
 
 
-app.get('/Handler/SHDQPassengerHandler.ashx', function (req, res) {
+app.get('/Handler/SHDQPassengerHandlerV3.ashx', function (req, res) {
     var query = url.parse(req.url).query;
     var MethodID = qs.parse(query)["MethodID"];
     var fileName = "14.json";
@@ -219,6 +248,53 @@ app.get('/Handler/SHDQOverviewHandlerV2.ashx', function (req, res) {
     }
     if (methodId === "getTrafficSiteCountByArea" && siteKey === "A00001") {
         fileName = '38.json';
+    }
+    fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
+        res.end(data);
+    });
+})
+
+app.get('/Handler/SHDQOverviewHandlerV3.ashx', function (req, res) {
+
+    var query = url.parse(req.url).query;
+    var methodId = qs.parse(query)["methodId"];
+    var siteKey = qs.parse(query)["siteKey"];
+    var fileName = "";
+    if (methodId === "getTotalPeople") {
+        fileName = "25.json"
+    }
+    if (methodId === "getTrafficSAW") {
+        fileName = "26.json"
+    }
+    if (methodId === "getTrafficSiteIndex") {
+        fileName = "27.json"
+    }
+    if (methodId === "getSiteVisitorNum") {
+        fileName = "28.json"
+    }
+    if (methodId === "getTrafficRank") {
+        fileName = "29.json"
+    }
+    if (methodId === "getTrafficRankByArea") {
+        fileName = "30.json"
+    }
+    if (methodId === "getPassenger_Timedistribution") {
+        fileName = "31.json"
+    }
+    if (methodId === "getSitekeyByUser") {
+        fileName = '40.json';
+    }
+    if (methodId === "getSiteAreaVisitorNum") {
+        fileName = 'f.json';
+    }
+    if (methodId === "getTrafficSiteCountByArea") {
+        fileName = '47.json';
+    }
+    if (methodId === "getTrafficSiteSumCount") {
+        fileName = '39.json';
+    }
+    if (methodId === "getTrafficSiteCountByArea" && siteKey === "A00001") {
+        fileName = '47.json';
     }
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);

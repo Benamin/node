@@ -1,0 +1,60 @@
+{
+  "code": 1,
+  "msg": [
+    {
+      "name": "崇明区党群服务中心",
+      "sitekey": "P00081",
+      "value": "0",
+      "longitude": "121.707368277721",
+      "latitude": "31.39850577652",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "300",
+      "siteAlias": null
+    },
+    {
+      "name": "松江区党建服务中心",
+      "sitekey": "P00064",
+      "value": "0",
+      "longitude": "121.203974039428",
+      "latitude": "31.039348815688",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "300",
+      "siteAlias": null
+    },
+    {
+      "name": "嘉定区党建服务中心",
+      "sitekey": "P00022",
+      "value": "0",
+      "longitude": "121.270994188103",
+      "latitude": "31.3652452464894",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "300",
+      "siteAlias": null
+    },
+    {
+      "name": "普陀区党群服务中心",
+      "sitekey": "P00006",
+      "value": "0",
+      "longitude": "121.384953135268",
+      "latitude": "31.2335513647848",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "300",
+      "siteAlias": null
+    },
+    {
+      "name": "宝山区党建服务中心",
+      "sitekey": "P00003",
+      "value": "0",
+      "longitude": "121.445762309816",
+      "latitude": "31.3317440348468",
+      "sumdata": "0",
+      "parenttype": "207",
+      "sitetype": "300",
+      "siteAlias": null
+    }
+  ]
+}

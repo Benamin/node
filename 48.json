@@ -1,0 +1,24 @@
+{
+  "code": 1,
+  "msg": {
+    "isvisiable": 1,
+    "agesattr": [
+      {
+        "sitename": "全部",
+        "sitekey": "-1"
+      },
+      {
+        "sitename": "城市工业园区",
+        "sitekey": "A00021"
+      },
+      {
+        "sitename": "大场镇",
+        "sitekey": "A00022"
+      },
+      {
+        "sitename": "高境镇",
+        "sitekey": "A00023"
+      }
+    ]
+  }
+}
