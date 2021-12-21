@@ -296,6 +296,12 @@ app.get('/Handler/SHDQOverviewHandlerV3.ashx', function (req, res) {
     if (methodId === "getTrafficSiteCountByArea" && siteKey === "A00001") {
         fileName = '47.json';
     }
+    if (methodId === "getSiteArea") {
+        fileName = '49.json';
+    }
+    if (methodId === "getSiteAreaDetailData") {
+        fileName = '50.json';
+    }
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
