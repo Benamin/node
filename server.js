@@ -50,6 +50,10 @@ app.get('/Handler/SHDQSiteDataHandlerV3.ashx', function (req, res) {
     if (val === "getTownList") {
         fileName = '48.json';
     }
+    if (val === "getTotalSiteIndex") {
+        fileName = '52.json';
+    }
+    console.log(fileName)
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
@@ -77,6 +81,7 @@ app.get('/Handler/SHDQSiteDataHandler.ashx', function (req, res) {
     if (val === "getActivityImg") {
         fileName = '46.json';
     }
+    console.log(fileName)
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
@@ -108,6 +113,7 @@ app.post('/Handler/SHDQOverviewHandler.ashx', function (req, res) {
     if (methodId === "getTrafficSiteIndex") {
         fileName = "23.json"
     }
+    console.log(fileName)
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
@@ -141,7 +147,7 @@ app.get('/Handler/SHDQSiteDataDetailHandler.ashx', function (req, res) {
     if (MethodID === "getSiteVisitorNum") {
         fileName = '37.json';
     }
-
+    console.log(fileName)
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
@@ -179,6 +185,7 @@ app.get('/Handler/SHDQVideoHandlerV3.ashx', function (req, res) {
     if (MethodID === "getAllVideoBySiteKey") {
         fileName = '45.json';
     }
+    console.log(fileName)
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
@@ -201,6 +208,10 @@ app.get('/Handler/SHDQPassengerHandlerV3.ashx', function (req, res) {
     if (MethodID === "getPassenger_RegionList") {
         fileName = "43.json";
     }
+    if (MethodID === "getPassenger_Timedistribution") {
+        fileName = "31.json"
+    }
+    console.log(fileName)
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
@@ -249,6 +260,7 @@ app.get('/Handler/SHDQOverviewHandlerV2.ashx', function (req, res) {
     if (methodId === "getTrafficSiteCountByArea" && siteKey === "A00001") {
         fileName = '38.json';
     }
+    console.log(fileName)
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });
@@ -278,9 +290,6 @@ app.get('/Handler/SHDQOverviewHandlerV3.ashx', function (req, res) {
     if (methodId === "getTrafficRankByArea") {
         fileName = "30.json"
     }
-    if (methodId === "getPassenger_Timedistribution") {
-        fileName = "31.json"
-    }
     if (methodId === "getSitekeyByUser") {
         fileName = '40.json';
     }
@@ -302,6 +311,13 @@ app.get('/Handler/SHDQOverviewHandlerV3.ashx', function (req, res) {
     if (methodId === "getSiteAreaDetailData") {
         fileName = '50.json';
     }
+    if (methodId === "getResDistribution") {
+        fileName = "12.json"
+    }
+    if (methodId === "getPassenger_Timedistribution") {
+        fileName = '51.json';
+    }
+    console.log(fileName)
     fs.readFile(__dirname + "/" + fileName, 'utf8', function (err, data) {
         res.end(data);
     });

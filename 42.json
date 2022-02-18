@@ -1,9 +1,9 @@
 {
-  "code": 0,
+  "code": 1,
   "msg": [
     {
       "rank": "1",
-      "sitename": "普陀区·曹杨武宁片区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "曹杨新村街道",
       "traffic": "729",
       "sitekey": "P00016",
@@ -14,7 +14,7 @@
     },
     {
       "rank": "2",
-      "sitename": "金山区·鑫港湾蓝领驿站党群服务站",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "金山工业区",
       "traffic": "700",
       "sitekey": "P00087",
@@ -25,7 +25,7 @@
     },
     {
       "rank": "3",
-      "sitename": "普陀区·桃浦镇西部片区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "桃浦镇",
       "traffic": "681",
       "sitekey": "P00011",
@@ -36,7 +36,7 @@
     },
     {
       "rank": "4",
-      "sitename": "闵行区·梅陇镇社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "梅陇镇",
       "traffic": "516",
       "sitekey": "P00013",
@@ -47,7 +47,7 @@
     },
     {
       "rank": "5",
-      "sitename": "闵行区·古美路街道社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "古美路街道",
       "traffic": "508",
       "sitekey": "P00026",
@@ -58,7 +58,7 @@
     },
     {
       "rank": "6",
-      "sitename": "金山区·朱泾镇社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "朱泾镇",
       "traffic": "431",
       "sitekey": "P00038",
@@ -69,7 +69,7 @@
     },
     {
       "rank": "7",
-      "sitename": "普陀区·白兰片区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "宜川路街道",
       "traffic": "410",
       "sitekey": "P00010",
@@ -80,7 +80,7 @@
     },
     {
       "rank": "8",
-      "sitename": "嘉定区·嘉定工业区社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "嘉定工业区",
       "traffic": "318",
       "sitekey": "P00029",
@@ -91,7 +91,7 @@
     },
     {
       "rank": "9",
-      "sitename": "普陀区·甘泉沪太片区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "甘泉路街道",
       "traffic": "317",
       "sitekey": "P00014",
@@ -102,7 +102,7 @@
     },
     {
       "rank": "10",
-      "sitename": "奉贤区·金海街道社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "金海社区",
       "traffic": "312",
       "sitekey": "P00063",
@@ -113,7 +113,7 @@
     },
     {
       "rank": "11",
-      "sitename": "松江区·石湖荡镇社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "石湖荡镇",
       "traffic": "282",
       "sitekey": "P00105",
@@ -124,7 +124,7 @@
     },
     {
       "rank": "12",
-      "sitename": "嘉定区·徐行镇社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "徐行镇",
       "traffic": "252",
       "sitekey": "P00088",
@@ -135,7 +135,7 @@
     },
     {
       "rank": "13",
-      "sitename": "普陀区·长征镇怒江片区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "长征镇",
       "traffic": "220",
       "sitekey": "P00009",
@@ -146,7 +146,7 @@
     },
     {
       "rank": "14",
-      "sitename": "嘉定区党建服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "嘉定区",
       "traffic": "210",
       "sitekey": "P00022",
@@ -157,7 +157,7 @@
     },
     {
       "rank": "15",
-      "sitename": "金山区·枫泾镇社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "枫泾镇",
       "traffic": "205",
       "sitekey": "P00049",
@@ -168,7 +168,7 @@
     },
     {
       "rank": "16",
-      "sitename": "嘉定区·马陆镇社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "马陆镇",
       "traffic": "200",
       "sitekey": "P00035",
@@ -179,7 +179,7 @@
     },
     {
       "rank": "17",
-      "sitename": "崇明区·城桥镇社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "城桥镇",
       "traffic": "194",
       "sitekey": "P00089",
@@ -190,7 +190,7 @@
     },
     {
       "rank": "18",
-      "sitename": "嘉定区·菊园新区社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "菊园新区",
       "traffic": "185",
       "sitekey": "P00051",
@@ -201,7 +201,7 @@
     },
     {
       "rank": "19",
-      "sitename": "金山区·金山工业区社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "金山工业区",
       "traffic": "173",
       "sitekey": "P00041",
@@ -212,7 +212,7 @@
     },
     {
       "rank": "20",
-      "sitename": "虹口区·曲阳路街道社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "曲阳路街道",
       "traffic": "165",
       "sitekey": "P00046",
@@ -223,7 +223,7 @@
     },
     {
       "rank": "21",
-      "sitename": "闵行区·浦锦街道社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "浦锦街道",
       "traffic": "164",
       "sitekey": "P00032",
@@ -234,7 +234,7 @@
     },
     {
       "rank": "22",
-      "sitename": "闵行区·江川路街道社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "江川路街道",
       "traffic": "160",
       "sitekey": "P00019",
@@ -245,7 +245,7 @@
     },
     {
       "rank": "23",
-      "sitename": "虹口区·市民驿站江湾镇街道第一分站",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "江湾镇街道",
       "traffic": "157",
       "sitekey": "P00048",
@@ -256,7 +256,7 @@
     },
     {
       "rank": "24",
-      "sitename": "虹口区·广中路街道花园坊节能环保产业园党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "虹口区",
       "traffic": "150",
       "sitekey": "P00050",
@@ -267,7 +267,7 @@
     },
     {
       "rank": "25",
-      "sitename": "浦东新区·东明路街道社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "东明路街道",
       "traffic": "142",
       "sitekey": "P00025",
@@ -278,7 +278,7 @@
     },
     {
       "rank": "26",
-      "sitename": "崇明区·港西镇社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "港西镇",
       "traffic": "140",
       "sitekey": "P00078",
@@ -289,7 +289,7 @@
     },
     {
       "rank": "27",
-      "sitename": "松江区·中山街道社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "中山街道",
       "traffic": "136",
       "sitekey": "P00066",
@@ -300,7 +300,7 @@
     },
     {
       "rank": "28",
-      "sitename": "金山区·金山卫镇社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "金山卫镇",
       "traffic": "132",
       "sitekey": "P00069",
@@ -311,7 +311,7 @@
     },
     {
       "rank": "29",
-      "sitename": "静安区·江宁路街道社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "江宁路街道",
       "traffic": "131",
       "sitekey": "P00097",
@@ -322,7 +322,7 @@
     },
     {
       "rank": "30",
-      "sitename": "闵行区·新虹街道社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "新虹街道",
       "traffic": "128",
       "sitekey": "P00042",
@@ -333,7 +333,7 @@
     },
     {
       "rank": "31",
-      "sitename": "普陀区·宜昌片区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "宜川路街道",
       "traffic": "126",
       "sitekey": "P00020",
@@ -344,7 +344,7 @@
     },
     {
       "rank": "32",
-      "sitename": "嘉定区·江桥镇社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "江桥镇",
       "traffic": "120",
       "sitekey": "P00039",
@@ -355,7 +355,7 @@
     },
     {
       "rank": "33",
-      "sitename": "浦东新区·陆家嘴街道社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "陆家嘴街道",
       "traffic": "120",
       "sitekey": "P00043",
@@ -366,7 +366,7 @@
     },
     {
       "rank": "34",
-      "sitename": "金山区·紫卫居民区党群服务站",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "石化街道",
       "traffic": "115",
       "sitekey": "P00091",
@@ -1015,7 +1015,7 @@
     },
     {
       "rank": "101",
-      "sitename": "嘉定区·南翔镇社区党群服务中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "南翔镇",
       "traffic": "--",
       "sitekey": "P00062",
@@ -1026,7 +1026,7 @@
     },
     {
       "rank": "101",
-      "sitename": "浦东新区·陆家嘴金融城党建中心-中国金融信息中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "浦东新区",
       "traffic": "--",
       "sitekey": "P00102",
@@ -1037,7 +1037,7 @@
     },
     {
       "rank": "101",
-      "sitename": "闵行区·古美路街道平阳里党群服务分中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "古美路街道",
       "traffic": "--",
       "sitekey": "P00052",
@@ -1048,7 +1048,7 @@
     },
     {
       "rank": "101",
-      "sitename": "闵行区·古美路街道美乐汇党群服务分中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "古美路街道",
       "traffic": "--",
       "sitekey": "P00053",
@@ -1059,7 +1059,7 @@
     },
     {
       "rank": "101",
-      "sitename": "闵行区·古美路街道古龙汇党群服务分中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "古美路街道",
       "traffic": "--",
       "sitekey": "P00055",
@@ -1070,7 +1070,7 @@
     },
     {
       "rank": "101",
-      "sitename": "闵行区·古美路街道东兰苑党群服务分中心",
+      "sitename": "xxx党群服务中心",
       "sitebyarea": "古美路街道",
       "traffic": "--",
       "sitekey": "P00056",
