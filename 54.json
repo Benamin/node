@@ -1,0 +1,545 @@
+{
+  "code": 1,
+  "msg": [
+    {
+      "name": "复旦大学",
+      "longitude": "121.509034009",
+      "latitude": "31.297287891",
+      "sumdata": "500",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "杨浦区"
+    },
+    {
+      "name": "同济大学",
+      "longitude": "121.220630959",
+      "latitude": "31.291872846",
+      "sumdata": "501",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "闵行区"
+    },
+    {
+      "name": "上海交通大学",
+      "longitude": "121.477982013",
+      "latitude": "31.218481867",
+      "sumdata": "502",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "杨浦区"
+    },
+    {
+      "name": "华东理工大学",
+      "longitude": "121.430226026",
+      "latitude": "31.149537586",
+      "sumdata": "503",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "徐汇区"
+    },
+    {
+      "name": "上海理工大学",
+      "longitude": "121.563912032",
+      "latitude": "31.298313856",
+      "sumdata": "504",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "杨浦区"
+    },
+    {
+      "name": "上海海事大学",
+      "longitude": "121.57523298",
+      "latitude": "31.269340533",
+      "sumdata": "505",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "东华大学",
+      "longitude": "121.36478411",
+      "latitude": "31.228309716",
+      "sumdata": "506",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "松江区"
+    },
+    {
+      "name": "上海电力大学",
+      "longitude": "121.898093",
+      "latitude": "30.908079861",
+      "sumdata": "507",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "杨浦区"
+    },
+    {
+      "name": "上海应用技术大学",
+      "longitude": "121.517148044",
+      "latitude": "30.848401867",
+      "sumdata": "508",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "奉贤区"
+    },
+    {
+      "name": "上海健康医学院",
+      "longitude": "121.618818082",
+      "latitude": "31.103292847",
+      "sumdata": "509",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海海洋大学",
+      "longitude": "121.906112173",
+      "latitude": "30.885793765",
+      "sumdata": "510",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海中医药大学",
+      "longitude": "121.488601062",
+      "latitude": "31.309871074",
+      "sumdata": "511",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "华东师范大学",
+      "longitude": "121.406767227",
+      "latitude": "31.216514336",
+      "sumdata": "512",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "闵行区"
+    },
+    {
+      "name": "上海师范大学",
+      "longitude": "121.370061925",
+      "latitude": "31.116269712",
+      "sumdata": "513",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "徐汇区"
+    },
+    {
+      "name": "上海外国语大学",
+      "longitude": "121.708269458",
+      "latitude": "31.199734905",
+      "sumdata": "514",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "虹口区"
+    },
+    {
+      "name": "上海财经大学",
+      "longitude": "116.349163387",
+      "latitude": "39.965210992",
+      "sumdata": "515",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "杨浦区"
+    },
+    {
+      "name": "上海对外经贸大学",
+      "longitude": "121.223889203",
+      "latitude": "31.05254719",
+      "sumdata": "516",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "松江区"
+    },
+    {
+      "name": "上海海关学院",
+      "longitude": "121.584488887",
+      "latitude": "31.1749444",
+      "sumdata": "517",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "华东政法大学",
+      "longitude": "121.423160045",
+      "latitude": "31.232868896",
+      "sumdata": "518",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "松江区"
+    },
+    {
+      "name": "上海体育学院",
+      "longitude": "121.53231198",
+      "latitude": "31.319054906",
+      "sumdata": "519",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "杨浦区"
+    },
+    {
+      "name": "上海音乐学院",
+      "longitude": "121.45896803",
+      "latitude": "31.195164844",
+      "sumdata": "520",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "徐汇区"
+    },
+    {
+      "name": "上海戏剧学院",
+      "longitude": "121.521641008",
+      "latitude": "31.24534784",
+      "sumdata": "521",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "静安区"
+    },
+    {
+      "name": "上海大学",
+      "longitude": "121.400386024",
+      "latitude": "31.321047888",
+      "sumdata": "522",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "宝山区"
+    },
+    {
+      "name": "上海公安学院",
+      "longitude": "121.525864482",
+      "latitude": "31.38606157",
+      "sumdata": "523",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海工程技术大学",
+      "longitude": "121.494408248",
+      "latitude": "31.300799576",
+      "sumdata": "524",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "松江区"
+    },
+    {
+      "name": "上海立信会计金融学院",
+      "longitude": "121.544924997",
+      "latitude": "31.241679851",
+      "sumdata": "525",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "黄浦区"
+    },
+    {
+      "name": "上海电机学院",
+      "longitude": "121.891944907",
+      "latitude": "30.894216034",
+      "sumdata": "526",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海政法学院",
+      "longitude": "121.179429997",
+      "latitude": "31.11708388",
+      "sumdata": "527",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "青浦区"
+    },
+    {
+      "name": "上海第二工业大学",
+      "longitude": "121.451579916",
+      "latitude": "31.189881505",
+      "sumdata": "528",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海商学院",
+      "longitude": "121.444525972",
+      "latitude": "31.263325865",
+      "sumdata": "529",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "徐汇区"
+    },
+    {
+      "name": "上海科技大学",
+      "longitude": "121.462077514",
+      "latitude": "31.208718386",
+      "sumdata": "530",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海杉达学院",
+      "longitude": "121.665543532",
+      "latitude": "31.274949374",
+      "sumdata": "532",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海立达学院",
+      "longitude": "121.327487993",
+      "latitude": "30.942255815",
+      "sumdata": "533",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "松江区"
+    },
+    {
+      "name": "上海建桥学院",
+      "longitude": "121.898610514",
+      "latitude": "30.897634809",
+      "sumdata": "534",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海兴伟学院",
+      "longitude": "121.793274042",
+      "latitude": "31.049121871",
+      "sumdata": "535",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海中侨职业技术大学",
+      "longitude": "121.311135958",
+      "latitude": "30.804103873",
+      "sumdata": "536",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "金山区"
+    },
+    {
+      "name": "上海视觉艺术学院",
+      "longitude": "121.212380293",
+      "latitude": "31.052580447",
+      "sumdata": "537",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "松江区"
+    },
+    {
+      "name": "上海外国语大学贤达经济人文学院",
+      "longitude": "121.839010998",
+      "latitude": "31.490707907",
+      "sumdata": "538",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "崇明区"
+    },
+    {
+      "name": "上海师范大学天华学院",
+      "longitude": "116.142551682",
+      "latitude": "30.476076636",
+      "sumdata": "539",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "嘉定区"
+    },
+    {
+      "name": "上海纽约大学",
+      "longitude": "121.540466977",
+      "latitude": "31.231930832",
+      "sumdata": "540",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海旅游高等专科学校",
+      "longitude": "121.518797961",
+      "latitude": "30.838939831",
+      "sumdata": "541",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "奉贤区"
+    },
+    {
+      "name": "上海出版印刷高等专科学校",
+      "longitude": "121.549228959",
+      "latitude": "31.289408875",
+      "sumdata": "542",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "杨浦区"
+    },
+    {
+      "name": "上海行健职业学院",
+      "longitude": "121.438035535",
+      "latitude": "31.286534636",
+      "sumdata": "543",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "静安区"
+    },
+    {
+      "name": "上海城建职业学院",
+      "longitude": "121.487628018",
+      "latitude": "31.253102073",
+      "sumdata": "544",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "奉贤区"
+    },
+    {
+      "name": "上海交通职业技术学院",
+      "longitude": "121.573668079",
+      "latitude": "31.269161798",
+      "sumdata": "545",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "宝山区"
+    },
+    {
+      "name": "上海海事职业技术学院",
+      "longitude": "121.495042003",
+      "latitude": "31.397794924",
+      "sumdata": "546",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海电子信息职业技术学院",
+      "longitude": "121.435626369",
+      "latitude": "31.2719858",
+      "sumdata": "547",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "奉贤区"
+    },
+    {
+      "name": "上海工艺美术职业学院",
+      "longitude": "121.258669975",
+      "latitude": "31.413833896",
+      "sumdata": "548",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "嘉定区"
+    },
+    {
+      "name": "上海科学技术职业学院",
+      "longitude": "121.264624034",
+      "latitude": "31.392407913",
+      "sumdata": "549",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "嘉定区"
+    },
+    {
+      "name": "上海农林职业技术学院",
+      "longitude": "121.178274956",
+      "latitude": "30.901444819",
+      "sumdata": "550",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "松江区"
+    },
+    {
+      "name": "上海民航职业技术学院",
+      "longitude": "121.462475014",
+      "latitude": "31.177612828",
+      "sumdata": "552",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "徐汇区"
+    },
+    {
+      "name": "上海东海职业技术学院",
+      "longitude": "121.463708388",
+      "latitude": "31.036094438",
+      "sumdata": "554",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "闵行区"
+    },
+    {
+      "name": "上海工商职业技术学院",
+      "longitude": "121.227548001",
+      "latitude": "31.254777882",
+      "sumdata": "555",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "嘉定区"
+    },
+    {
+      "name": "上海震旦职业学院",
+      "longitude": "121.366038864",
+      "latitude": "31.418240409",
+      "sumdata": "556",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "宝山区"
+    },
+    {
+      "name": "上海民远职业技术学院",
+      "longitude": "121.666541999",
+      "latitude": "31.204611836",
+      "sumdata": "557",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海思博职业技术学院",
+      "longitude": "121.78710996",
+      "latitude": "31.043760855",
+      "sumdata": "559",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海济光职业技术学院",
+      "longitude": "121.506482103",
+      "latitude": "31.306783422",
+      "sumdata": "560",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "宝山区"
+    },
+    {
+      "name": "上海工商外国语职业学院",
+      "longitude": "121.78775144",
+      "latitude": "31.053839106",
+      "sumdata": "561",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    },
+    {
+      "name": "上海邦德职业技术学院",
+      "longitude": "121.408505646",
+      "latitude": "31.32895724",
+      "sumdata": "562",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "宝山区"
+    },
+    {
+      "name": "上海电影艺术职业学院",
+      "longitude": "121.591567984",
+      "latitude": "31.197840341",
+      "sumdata": "563",
+      "parenttype": "207",
+      "sitetype": "300",
+      "belongTo": "浦东新区"
+    }
+  ]
+}

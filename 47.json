@@ -4,7 +4,7 @@
     {
       "name": "宝山区",
       "sitekey": "A00002",
-      "value": "24",
+      "value": "5",
       "longitude": "121.474719",
       "latitude": "31.406088",
       "sumdata": "0",
@@ -15,7 +15,7 @@
     {
       "name": "闵行区",
       "sitekey": "A00003",
-      "value": "26",
+      "value": "3",
       "longitude": "121.368063",
       "latitude": "31.168973",
       "sumdata": "0",
@@ -26,7 +26,7 @@
     {
       "name": "普陀区",
       "sitekey": "A00004",
-      "value": "16",
+      "value": "0",
       "longitude": "121.427928",
       "latitude": "31.250199",
       "sumdata": "0",
@@ -37,7 +37,7 @@
     {
       "name": "徐汇区",
       "sitekey": "A00006",
-      "value": "14",
+      "value": "5",
       "longitude": "121.444013",
       "latitude": "31.198091",
       "sumdata": "0",
@@ -48,7 +48,7 @@
     {
       "name": "浦东新区",
       "sitekey": "A00007",
-      "value": "40",
+      "value": "18",
       "longitude": "121.61781",
       "latitude": "31.203282",
       "sumdata": "0",
@@ -59,7 +59,7 @@
     {
       "name": "黄浦区",
       "sitekey": "A00008",
-      "value": "10",
+      "value": "1",
       "longitude": "121.481473",
       "latitude": "31.234881",
       "sumdata": "0",
@@ -70,7 +70,7 @@
     {
       "name": "长宁区",
       "sitekey": "A00009",
-      "value": "32",
+      "value": "0",
       "longitude": "121.379378",
       "latitude": "31.22223",
       "sumdata": "0",
@@ -81,7 +81,7 @@
     {
       "name": "静安区",
       "sitekey": "A00010",
-      "value": "43",
+      "value": "2",
       "longitude": "121.458492",
       "latitude": "31.296217",
       "sumdata": "0",
@@ -92,7 +92,7 @@
     {
       "name": "虹口区",
       "sitekey": "A00011",
-      "value": "8",
+      "value": "1",
       "longitude": "121.51112",
       "latitude": "31.270402",
       "sumdata": "0",
@@ -103,7 +103,7 @@
     {
       "name": "杨浦区",
       "sitekey": "A00012",
-      "value": "21",
+      "value": "7",
       "longitude": "121.531921",
       "latitude": "31.265522",
       "sumdata": "0",
@@ -114,7 +114,7 @@
     {
       "name": "嘉定区",
       "sitekey": "A00013",
-      "value": "19",
+      "value": "4",
       "longitude": "121.263021",
       "latitude": "31.35565",
       "sumdata": "0",
@@ -125,7 +125,7 @@
     {
       "name": "金山区",
       "sitekey": "A00014",
-      "value": "26",
+      "value": "1",
       "longitude": "121.34828",
       "latitude": "30.748958",
       "sumdata": "0",
@@ -136,7 +136,7 @@
     {
       "name": "松江区",
       "sitekey": "A00015",
-      "value": "28",
+      "value": "7",
       "longitude": "121.234125",
       "latitude": "31.038625",
       "sumdata": "0",
@@ -147,7 +147,7 @@
     {
       "name": "青浦区",
       "sitekey": "A00016",
-      "value": "18",
+      "value": "1",
       "longitude": "121.27883",
       "latitude": "31.17879",
       "sumdata": "0",
@@ -158,7 +158,7 @@
     {
       "name": "奉贤区",
       "sitekey": "A00017",
-      "value": "12",
+      "value": "4",
       "longitude": "121.496757",
       "latitude": "30.926087",
       "sumdata": "0",
@@ -169,7 +169,7 @@
     {
       "name": "崇明区",
       "sitekey": "A00018",
-      "value": "15",
+      "value": "1",
       "longitude": "121.407139",
       "latitude": "31.627777",
       "sumdata": "0",
