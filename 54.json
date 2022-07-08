@@ -102,7 +102,7 @@
     },
     {
       "name": "上海中医药大学",
-      "longitude": "121.488601062",
+      "longitude": "121.588601062",
       "latitude": "31.309871074",
       "sumdata": "511",
       "parenttype": "207",
@@ -255,8 +255,8 @@
     },
     {
       "name": "上海第二工业大学",
-      "longitude": "121.451579916",
-      "latitude": "31.189881505",
+      "longitude": "121.551579916",
+      "latitude": "31.159881505",
       "sumdata": "528",
       "parenttype": "207",
       "sitetype": "300",
@@ -273,7 +273,7 @@
     },
     {
       "name": "上海科技大学",
-      "longitude": "121.462077514",
+      "longitude": "121.562077514",
       "latitude": "31.208718386",
       "sumdata": "530",
       "parenttype": "207",
@@ -408,8 +408,8 @@
     },
     {
       "name": "上海海事职业技术学院",
-      "longitude": "121.495042003",
-      "latitude": "31.397794924",
+      "longitude": "121.505042003",
+      "latitude": "31.367794924",
       "sumdata": "546",
       "parenttype": "207",
       "sitetype": "300",

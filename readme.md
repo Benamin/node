@@ -1,1 +1,1 @@
-##启动 node server.js启动nginx nginx-monitor.conf访问 http://localhost:8080/PassMass/hotarea.html
+##启动 node server.js启动nginx nginx-monitor.conf访问 http://localhost:8080/PassMass/hotarea.htmlscp -r node root@192.168.11.12:/home/node 
